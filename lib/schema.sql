@@ -11,8 +11,7 @@ CREATE TABLE subgenres (
 
 CREATE TABLE author (
   id INTEGER PRIMARY KEY,
-  name TEXT
-);
+  name TEXT);
 
 -- CREATE TABLE books (
 --   id INTEGER PRIMARY KEY,
